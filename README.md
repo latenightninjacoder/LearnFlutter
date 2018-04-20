@@ -1,6 +1,6 @@
-# myapp
+# LearnFlutter
 
-A new Flutter project.
+A Learning Sandbox Flutter project.
 
 ## Getting Started
 
